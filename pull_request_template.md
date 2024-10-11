@@ -1,8 +1,6 @@
 ## Pull/Merge Request: [Title]
 **Author:**
-**Date:**
-**Reviewer(s):**
-**JIRA Ticket/Task ID:** [Link to related task or issue]
+**JIRA Ticket:** [Link to related task or issue]
 ---
 ### 1. Summary of Changes
 - **Describe the changes being introduced in this pull/merge request:**
