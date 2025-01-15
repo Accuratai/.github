@@ -1,4 +1,3 @@
-## Pull/Merge Request: [Title]
 **JIRA Ticket:** [Link to related task or issue]
 ---
 ### 1. Summary of Changes
@@ -8,19 +7,19 @@
 - **Systems/Modules Affected:**
   - [List the affected systems or modules]
 - **Data changes:**
-  - Are changes to resulting dashboard data made?
-    - Yes/No
-    - If yes, specify them and justify why they are needed. Communicate with superior or Customer Success.
-  - Does this PR introduce breaking changes (changes in table structures)
-    - Yes/No
-    - If yes, specify the changed table structures
-- **Staging Compatibility:**
-  - Is all staging functionality in sync with production?
-    - Yes/No
-### 3. Testing & Validation
-- **Testing Procedures:**
-  - Check the GitHub label, linked to our [Confluence](https://accuratai.atlassian.net/wiki/spaces/DATA/pages/214073362/Technical+guidelines)
-### 4. Documentation
-- **Has documentation been updated for this change?**
-  - Yes/No
-  - If yes, provide links or references to the updated documentation.
+  - [ ] Are changes to resulting dashboard data made?
+  - [ ] Does this PR introduce changes in table structure? 
+
+### 3. Testing & Documentation
+- **[Testing](https://accuratai.atlassian.net/wiki/spaces/DATA/pages/214073362/Technical+guidelines) Procedures:**
+  - [ ] I have performed a self-review of my own code
+  - [ ] New and existing unit tests pass locally with my changes
+  - [ ] All changes are tested with the latest dependency chain. (Requirements, Pyper/Dirc)
+- **Documentation**
+  - [ ] My code follows the style guidelines of this project
+  - [ ] I have commented my code, particularly in hard-to-understand areas
+  - [ ] I have made corresponding changes to the documentation
+
+
+
+
