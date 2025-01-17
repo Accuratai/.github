@@ -1,14 +1,14 @@
 **JIRA Ticket:** [Link to related task or issue]
 ---
 ### 1. Summary of Changes
+- **Systems/Modules Affected:**
+  - [List the affected systems or modules]
 - **Describe the changes being introduced in this pull/merge request:**
   - [Summary of code changes, system modifications, or new functionality]
 ### 2. Impact Analysis
-- **Systems/Modules Affected:**
-  - [List the affected systems or modules]
 - **Data changes:**
-  - [ ] Are changes to resulting dashboard data made?
-  - [ ] Does this PR introduce changes in table structure? 
+  - [ ] All dashboard data is up to date with current changes
+  - [ ] All table structures are non breaking
 
 ### 3. Testing & Documentation
 - **[Testing](https://accuratai.atlassian.net/wiki/spaces/DATA/pages/214073362/Technical+guidelines) Procedures:**
